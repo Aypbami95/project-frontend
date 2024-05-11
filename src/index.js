@@ -13,7 +13,6 @@ root.render(
     <ShopContextProvider>
     <App />
     </ShopContextProvider>
-    
     </BrowserRouter>
   </React.StrictMode>
 );
